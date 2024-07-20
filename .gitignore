@@ -1,5 +1,5 @@
-./Llama-2-7b-chat-hf-Q5_K_M.gguf
-./all-MiniLM-L6-v2-ggml-model-f16.gguf
+Llama-2-7b-chat-hf-Q5_K_M.gguf
+all-MiniLM-L6-v2-ggml-model-f16.gguf
 
 /target
 execute.sh
